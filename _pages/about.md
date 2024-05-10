@@ -26,6 +26,12 @@ redirect_from:
 # 📝 Publications 
 Note: \* indicates equal contribution.
 
+- [MambaDW: Semantic-Aware Mamba for Document Watermark Removal]
+
+  **Yifan Liu**, Mingfu Yan, Hua He, et. al.
+
+  Under review
+  
 - [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 280+ stars)
 
   Yi Huang\*, Jiancheng Huang\*, **Yifan Liu**\*, Mingfu Yan\*, Jiaxi Lv\*, Jianzhuang Liu\*, Wei Xiong, He Zhang, Shifeng Chen, Liangliang Cao
