@@ -41,13 +41,13 @@ Note: \* indicates equal contribution.
 
 - [SBCR: Stochasticity Beats Content Restriction Problem in Training and Tuning Free Image Editing]
 
-  Jiancheng Huang, Mingfu Yan, **Yifan Liu** et. al. 
+  Jiancheng Huang, Mingfu Yan, **Yifan Liu**, et. al. 
 
   ACM International Conference on Multimedia Retrieval (ICMR) \| CCF-B
 
 - [Stable Diffusion already has a noisy style latent space]
 
-  Jiancheng Huang, Mingfu Yan, **Yifan Liu** et. al. 
+  Jiancheng Huang, Mingfu Yan, **Yifan Liu**, et. al. 
 
   IEEE International Conference on Multimedia and Expo (ICME) \| CCF-B
 
@@ -59,13 +59,13 @@ Note: \* indicates equal contribution.
 
 - [Entwined Inversion: Tune-Free Inversion for Real Image Faithful Reconstruction and Editing](https://ieeexplore.ieee.org/abstract/document/10448490)
 
-  Jiancheng Huang*, **Yifan Liu**\*, Jiaxi Lv, Shifeng Chen et. al. 
+  Jiancheng Huang*, **Yifan Liu**\*, Jiaxi Lv, Shifeng Chen
 
   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) \| CCF-B
 
 - [BK-Editer: Body-Keeping Text-Conditioned Real Image Editing](https://link.springer.com/chapter/10.1007/978-981-97-2095-8_13)
 
-  Jiancheng Huang*, **Yifan Liu**\*, Linxiao Shi  et. al.
+  Jiancheng Huang*, **Yifan Liu**\*, Linxiao Shi,  et. al.
 
   Computational Visual Media (CVM) \| CCF-C
 
