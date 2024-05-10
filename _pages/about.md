@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My current research interests include low-level vision and AIGC. I am currently seeking collaborations and PhD opportunities. If you are interested in my work or have potential collaboration ideas, please feel free to contact me at liuyifan6613@163.com.
+🔍 My current research interests include low-level vision and AIGC. I am currently seeking collaborations and PhD opportunities. If you are interested in my work or have potential collaboration ideas, please feel free to contact me at liuyifan6613@163.com.
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 The homepage is created and updated!. 
+- *2024.05*: &nbsp;🎉🎉 The homepage is created and updated!
 
 # 📝 Publications 
 
@@ -44,7 +44,7 @@ My current research interests include low-level vision and AIGC. I am currently 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.09 - Present*, Southern University of Science and Technology & SIAT MMLab 
+- *2022.09 - Present*, Southern University of Science and Technology &amp SIAT MMLab 
 - *2018.09 - 2022.06*, Central South University 
 
 # 💬 Invited Talks
