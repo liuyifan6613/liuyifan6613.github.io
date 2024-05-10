@@ -83,7 +83,7 @@ Note: \* indicates equal contribution.
 
 - [Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement](https://link.springer.com/chapter/10.1007/978-981-99-7025-4_6)
   
-  Jiancheng Huang*, **Yifan Liu**\*, Shifeng Chen.
+  Jiancheng Huang*, **Yifan Liu**\*, Shifeng Chen
 
   Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| Tsinghua list B in Mathematics (Best Paper Candidate)
 
