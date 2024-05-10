@@ -95,9 +95,13 @@ Note: \* indicates equal contribution.
 - *2022.09 - Present*, Southern University of Science and Technology &amp; SIAT MMLab 
 - *2018.09 - 2022.06*, Central South University 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Research Fields
+- *2023.12-now* &ensp; AIGC (Image and Video).
+- *2022.06* &ensp; Image low-level vision.
+- *2020.09* &ensp; Control Science and Engineering.
+- *2018.09* &ensp; Mechanical Design and Manufacture. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.02 - 2024.05*, Research Collaborator, [**vivo**](https://www.vivo.com/), China.
+
+- *2023.10 - 2024.01*, Research Assistant, [**Insta360**](https://www.insta360.com/cn/), China.
