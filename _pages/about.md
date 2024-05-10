@@ -88,8 +88,11 @@ Note: \* indicates equal contribution.
   Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| Tsinghua list B in Mathematics (Best Paper Candidate)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: I am awarded the **Best Paper Candidate** in PRICAI (Tsinghua list B in Mathematics).
+- *2023.09* Third place in the Recognition Challenge (智汇识别创新挑战赛).
+- *2023.01* Outstanding graduate student of Southern University of Science and Technology.
+- *2022* Outstanding student leader of Central South University
+- *2020*, 2021. Central South University academic year scholarship
 
 # 📖 Educations
 - *2022.09 - Present*, Southern University of Science and Technology &amp; SIAT MMLab 
