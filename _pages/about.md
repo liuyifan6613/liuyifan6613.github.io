@@ -21,6 +21,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 Started Internship (AIGC and Low-Level Vision) in at Tencent!
 - *2024.05*: &nbsp;🎉🎉 The homepage is created and updated!
 
 # 📝 Publications 
@@ -105,6 +106,8 @@ Note: \* indicates equal contribution.
 - *2018.09* &ensp; Mechanical Design and Manufacture. 
 
 # 💻 Internships
+- *2024.05 - now*, Research Intern, [**Tencent**](https://www.tencent.com/zh-cn/), China.
+
 - *2024.02 - 2024.05*, Research Collaborator, [**vivo**](https://www.vivo.com/), China.
 
 - *2023.10 - 2024.01*, Research Assistant, [**Insta360**](https://www.insta360.com/cn/), China.
