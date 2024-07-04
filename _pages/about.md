@@ -31,7 +31,7 @@ Note: \* indicates equal contribution.
 
   **Yifan Liu**, Mingfu Yan, Hua He, et. al.
 
-  COMPUTER GRAPHICS INTERNATIONAL (CGI)\| CCF-C \| Tsinghua list B
+  Computer Graphics International (CGI)\| CCF-C \| Tsinghua list B
   
 - [Diffusion Model-Based Image Editing: A Survey](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods) (GitHub 280+ stars)
 
