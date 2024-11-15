@@ -21,6 +21,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.10*：&nbsp;🎉🎉 Winning the National Scholarship.
 - *2024.07*: &nbsp;🎉🎉 Served as the reviewer of Neural Networks.
 - *2024.05*: &nbsp;🎉🎉 Served as the reviewer of ACM MM 2024.
 - *2024.05*: &nbsp;🎉🎉 Started Internship (AIGC and Low-Level Vision) at Tencent!
@@ -91,6 +92,7 @@ Note: \* indicates equal contribution.
   Pacific Rim International Conference on Artificial Intelligence (PRICAI) \| Tsinghua list B in Mathematics (Best Paper Candidate)
 
 # 🎖 Honors and Awards
+- *2024.10*: 2024 National Scholarship.
 - *2023.10*: Awarded the **Best Paper Candidate** in PRICAI (Tsinghua list B in Mathematics).
 - *2023.09*: Third place in the Recognition Challenge (智汇识别创新挑战赛).
 - *2023.01*: Outstanding graduate student of Southern University of Science and Technology.
