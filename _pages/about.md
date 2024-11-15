@@ -21,10 +21,10 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.10*：&nbsp;🎉🎉 Winning the National Scholarship.
+- *2024.10*：&nbsp;🎉🎉 Obtain the National Scholarship.
 - *2024.07*: &nbsp;🎉🎉 Served as the reviewer of Neural Networks.
 - *2024.05*: &nbsp;🎉🎉 Served as the reviewer of ACM MM 2024.
-- *2024.05*: &nbsp;🎉🎉 Started Internship (AIGC and Low-Level Vision) at Tencent!
+- *2024.05*: &nbsp;🎉🎉 Start Internship (AIGC and Low-Level Vision) at Tencent!
 - *2024.05*: &nbsp;🎉🎉 The homepage is created and updated!
 
 # 📝 Publications 
